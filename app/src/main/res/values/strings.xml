@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="change_location">Change Location</string>
+    <string name="c">°C</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="location">Brussels</string>
+    <string name="weather_temp">10</string>
+</resources>
